@@ -1,0 +1,1 @@
+Calculadora simples produzida com o intuito de relembrar alguns conteudos como a biblioteca math e a utilização do switch case.
